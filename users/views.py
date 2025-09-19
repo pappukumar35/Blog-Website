@@ -2,6 +2,7 @@ from django.shortcuts import render, redirect
 from django.contrib import messages
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth.forms import AuthenticationForm
+from django.contrib.auth import logout
 from blog.forms import UserRegisterForm
 
 
@@ -21,6 +22,11 @@ def register(request):
 @login_required
 def profile(request):
     return render(request, 'users/profile.html')
+
+
+def logout_view(request):
+    logout(request)
+    return render(request, 'users/logout.html')
 
 
 class CustomAuthenticationForm(AuthenticationForm):

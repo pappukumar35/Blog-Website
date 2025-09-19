@@ -28,6 +28,6 @@ urlpatterns = [
         template_name='users/login.html',
         authentication_form=CustomAuthenticationForm
     ), name='login'),
-    path('logout/', auth_views.LogoutView.as_view(template_name='users/logout.html'), name='logout'),
+    path('logout/', user_views.logout_view, name='logout'),
     path('profile/', user_views.profile, name='profile'),
 ]
