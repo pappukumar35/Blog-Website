@@ -1,1 +1,1 @@
-Django Blog Web application
+Django Blog Web application.
