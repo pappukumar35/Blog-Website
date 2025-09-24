@@ -137,11 +137,22 @@ Licensed under the MIT License.
 **Pappu Kumar**  
 Java & Python Backend Developer | Spring Boot | Django | Full Stack  
 
-📧 Email: [tpgcoder@gmail.com](mailto:tpgcoder@gmail.com)  
-🔗 LinkedIn: [https://linkedin.com/in/pappukumar35](https://linkedin.com/in/pappukumar35)  
-🔗 GitHub: [https://github.com/pappukumar35](https://github.com/pappukumar35)  
-▶️ YouTube: [https://youtube.com/channel/UCjv_9nWy8fNZ8KwGzQH8SKw](https://youtube.com/channel/UCjv_9nWy8fNZ8KwGzQH8SKw)  
+<p align="center">
+  <a href="mailto:tpgcoder@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tpgcoder%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <br>
+  <a href="https://linkedin.com/in/pappukumar35">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <br>
+  <a href="https://github.com/pappukumar35">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a><br>
+  <a href="https://youtube.com/channel/UCjv_9nWy8fNZ8KwGzQH8SKw">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube" />
+  </a>
+</p>
 
----
 
 <h3 align="center">🌟 If you like this project, don't forget to ⭐ the repo! 🌟</h3>
