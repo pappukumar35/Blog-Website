@@ -1,4 +1,4 @@
-# ✍️ TPGCODER – Blog Website💻  💻
+# ✍️ TPGCODER – Blog Website💻💻
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=35&color=00C9FF&center=true&vCenter=true&width=800&lines=✍️+TPGCODER+Blog+Website;📚+Share+Knowledge+%26+Learn+Together;🚀+Built+with+Django+%26+Bootstrap" />
