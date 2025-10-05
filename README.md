@@ -18,7 +18,7 @@
 
 -------
 
-## 🧠 Project Overview
+## 🧠 Project Overview.
 **TPGCODER Blog** is a **full-stack blogging platform** that enables users to:  
 - ✍️ Create, edit, and publish blogs  
 - 📂 Browse blogs by categories  
