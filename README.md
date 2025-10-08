@@ -13,7 +13,7 @@
 
 <p align="center">
   <b>🚀 A modern Blog Platform</b> built with <b>Django</b> where developers & learners can 
-  <b>write articles, explore categories, and share knowledge</b>.
+  <b>write articles, explore categories, and share knowledge.</b>.
 </p>
 
 -------
