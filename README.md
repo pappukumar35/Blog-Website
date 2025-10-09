@@ -131,7 +131,7 @@ Contributions are welcome! 🎉
 ## 📜 License
 Licensed under the MIT License.
 
----
+------
 
 ## 👨‍💻 Author
 **Pappu Kumar**  
