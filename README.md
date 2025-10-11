@@ -27,7 +27,7 @@
 
 ---
 
-## 🎯 Key Features
+## 🎯 Key Features.
 - 📰 Post Management – Add, edit, delete posts  
 - 📑 Category Browsing – Blogs organized into categories  
 - 🔎 Search Functionality – Quick blog search  
