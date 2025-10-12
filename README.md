@@ -16,7 +16,7 @@
   <b>write articles, explore categories, and share knowledge.</b>.
 </p>
 
--------
+------
 
 ## 🧠 Project Overview.
 **TPGCODER Blog** is a **full-stack blogging platform** that enables users to:  
