@@ -35,7 +35,7 @@
 - 🎨 Responsive UI – Powered by Bootstrap  
 - ⚡ Fast & Secure – Django ORM ensures security  
 
----
+-------
 
 ## 🛠️ Tech Stack
 | Technology       | Usage                          |
