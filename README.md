@@ -25,7 +25,7 @@
 - 🔎 Search posts easily  
 - 💬 Engage with the developer community  
 
--------
+-----
 
 ## 🎯 Key Features.
 - 📰 Post Management – Add, edit, delete posts  
