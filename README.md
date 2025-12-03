@@ -46,7 +46,7 @@
 | **Bootstrap 5**  | Responsive frontend framework  |
 | **HTML, CSS, JS**| UI templates & interactivity   |
 
----
+----------
 
 ## 📂 Project Structure
 ```
